@@ -1,0 +1,8 @@
+# ignore `regis` folder
+regis/
+
+# ignore `dist` folder
+dist/
+
+# ignore `notes.txt` file
+notes.txt
